@@ -4,3 +4,4 @@ ATALAES represents an end-to-end pipeline for the fully automated analysis of UV
 <img width="2282" height="1311" alt="atalaes" src="https://github.com/user-attachments/assets/b342934a-c555-4809-b411-822ccd292478" />
 
 ATALAES is programmed in the ESO-MIDAS command language, as it uses many of the MIDAS sub-routines.
+Test "https://www.uni-potsdam.de".
